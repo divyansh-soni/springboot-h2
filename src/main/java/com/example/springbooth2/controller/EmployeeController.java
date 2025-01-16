@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * com.example.springbooth2.controlle
+ * com.example.springbooth2.controller
  *
  * @author divyanshsoni on 14/01/25
  */
