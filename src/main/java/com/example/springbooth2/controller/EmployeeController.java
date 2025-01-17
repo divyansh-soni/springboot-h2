@@ -21,7 +21,7 @@ import java.util.List;
  */
 
 @RestController
-public class EmployeeControllerr {
+public class EmployeeController {
 
     @Autowired
     private EmployeeRepository employeeRepository;
